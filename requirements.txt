@@ -1,8 +1,11 @@
+torch
 numpy
 pandas
 seaborn
+xgboost
 lightgbm
 matplotlib
 setuptools
+tensorboard
 scikit-learn
 mysql-connector-python
