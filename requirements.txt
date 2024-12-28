@@ -1,0 +1,9 @@
+numpy
+pandas
+xbgoost
+seaborn
+lightgbm
+matplotlib
+setuptools
+scikit-learn
+mysql-connector-python
