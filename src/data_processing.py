@@ -1,6 +1,5 @@
 import pandas as pd
 from config.paths_config import *
-#from config.path_config import PROCESSED_DATA_PATH
 from src.logger import get_logger
 from src.custom_exception import CustomException
 import sys
