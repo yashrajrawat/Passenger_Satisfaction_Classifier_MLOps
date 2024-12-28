@@ -1,7 +1,7 @@
 import os
 import sys
 import pandas as pd
-from config.path_config import *
+from config.paths_config import *
 from src.logger import get_logger
 from src.custom_exception import CustomException
 from sklearn.model_selection import train_test_split
