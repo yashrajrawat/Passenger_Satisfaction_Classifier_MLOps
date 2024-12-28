@@ -1,6 +1,6 @@
 # Passenger_Satisfaction_Classifier_MLOps
 
-Airline Passenger Satisfaction 
+Airline Passenger Satisfaction - 
 This project focuses on analyzing and predicting passenger satisfaction levels for airlines using a comprehensive dataset derived from a passenger satisfaction survey. The project leverages advanced machine learning techniques and adheres to best practices in MLOps to ensure reliability, scalability, and reproducibility.
 
 # Project Overview
