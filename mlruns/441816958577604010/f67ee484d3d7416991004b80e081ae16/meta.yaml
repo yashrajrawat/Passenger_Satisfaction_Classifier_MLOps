@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yashr/OneDrive/Desktop/Passenger_Satisfaction_Classifier_MLOps/mlruns/441816958577604010/f67ee484d3d7416991004b80e081ae16/artifacts
+end_time: 1735469879142
+entry_point_name: ''
+experiment_id: '441816958577604010'
+lifecycle_stage: active
+run_id: f67ee484d3d7416991004b80e081ae16
+run_name: rare-eel-549
+run_uuid: f67ee484d3d7416991004b80e081ae16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735469851440
+status: 3
+tags: []
+user_id: yashr

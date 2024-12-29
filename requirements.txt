@@ -1,6 +1,7 @@
 torch
 numpy
 pandas
+mlflow
 seaborn
 xgboost
 lightgbm

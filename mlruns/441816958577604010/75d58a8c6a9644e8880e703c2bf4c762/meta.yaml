@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yashr/OneDrive/Desktop/Passenger_Satisfaction_Classifier_MLOps/mlruns/441816958577604010/75d58a8c6a9644e8880e703c2bf4c762/artifacts
+end_time: 1735469790680
+entry_point_name: ''
+experiment_id: '441816958577604010'
+lifecycle_stage: active
+run_id: 75d58a8c6a9644e8880e703c2bf4c762
+run_name: thundering-snail-718
+run_uuid: 75d58a8c6a9644e8880e703c2bf4c762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735469769815
+status: 4
+tags: []
+user_id: yashr
