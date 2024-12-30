@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yashr/OneDrive/Desktop/Passenger_Satisfaction_Classifier_MLOps/mlruns/441816958577604010/82d00674f90a4c0584b992bc16e56f5f/artifacts
+end_time: 1735554765229
+entry_point_name: ''
+experiment_id: '441816958577604010'
+lifecycle_stage: active
+run_id: 82d00674f90a4c0584b992bc16e56f5f
+run_name: adaptable-bird-563
+run_uuid: 82d00674f90a4c0584b992bc16e56f5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735554737635
+status: 3
+tags: []
+user_id: yashr
